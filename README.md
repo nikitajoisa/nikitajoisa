@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey, I'm Nikita Joisa
 
-<!--
-**nikitajoisa/nikitajoisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Business Analytics @ University College Cork | 💻 Data Test Automation | 🧠 ML + QA Enthusiast
 
-Here are some ideas to get you started:
+🔍 Passionate about building scalable data pipelines, writing clean automation test frameworks, and solving real-world problems through AI, deep learning, and analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **Tech Stack**:
+- Languages: Python, SQL, Java, JavaScript, TypeScript
+- Tools: TensorFlow, Streamlit, Scikit-learn, Postman, Git, MongoDB, Tableau
+- Specialties: Data Quality Automation, LLM Testing, Probabilistic Modeling, DL Pipelines
+
+📌 Open to opportunities in Data QA, ML Engineering, and Applied Research!
+
+[LinkedIn](https://www.linkedin.com/in/nikita-joisa-57a590220/) | [Email](mailto:nikitajoisa@gmail.com)
