@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🙏 Hey, I'm Nikita
+# Hey, I'm Nikita 👩🏻‍💻
 
 I work on full-stack web development with a strong design eye, building real, client-facing products from pitch to production, not just prototypes. Currently building **A Live Website For LeisureWorld and many more side quests**.
 
