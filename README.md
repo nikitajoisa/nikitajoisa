@@ -47,5 +47,5 @@ I work on full-stack web development with a strong design eye, building real, cl
 ---
 
 <div align="center">
-<img src="LinkedIn Background.jpeg" />
+<img src="_ (3).jpeg" width="100%" alt="footer"/>
 </div>
