@@ -47,5 +47,5 @@ I work on full-stack web development with a strong design eye, building real, cl
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" />
+<img src="LinkedIn Background.jpeg" />
 </div>
