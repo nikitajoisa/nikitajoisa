@@ -50,7 +50,8 @@ I work on full-stack web development with a strong design eye, building real, cl
 <img src="_ (3).jpeg" width="100%" alt="footer"/>
 </div>
 
+### 📊 Contribution Snake
 
 <div align="center">
-<img src="https://github.com/nikitajoisa/nikitajoisa/blob/output/github-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/nikitajoisa/nikitajoisa/output/dist/github-snake-dark.svg" width="100%" />
 </div>
