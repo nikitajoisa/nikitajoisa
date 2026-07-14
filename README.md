@@ -49,3 +49,8 @@ I work on full-stack web development with a strong design eye, building real, cl
 <div align="center">
 <img src="_ (3).jpeg" width="100%" alt="footer"/>
 </div>
+
+
+<div align="center">
+<img src="https://github.com/nikitajoisa/nikitajoisa/blob/output/github-snake-dark.svg" width="100%" />
+</div>
