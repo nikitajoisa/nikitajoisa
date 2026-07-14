@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Nikita%20Joisa&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Design-First%20Builder&descAlignY=58&descSize=18" />
+<img src="_.gif" width="100%" alt="banner" />
 </div>
 
 <div align="center">
