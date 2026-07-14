@@ -1,14 +1,63 @@
-# Hey, I'm Nikita Joisa
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Nikita%20Joisa&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Design-First%20Builder&descAlignY=58&descSize=18" />
+</div>
 
-🎓 MSc Business Analytics @ University College Cork | 💻 Data Test Automation | 🧠 ML + QA Enthusiast
+<div align="center">
 
-🔍 Passionate about building scalable data pipelines, writing clean automation test frameworks, and solving real-world problems through AI, deep learning, and analytics.
+### 🙏 Namaste, I'm Nikita
 
-🔧 **Tech Stack**:
-- Languages: Python, SQL, Java, JavaScript, TypeScript
-- Tools: TensorFlow, Streamlit, Scikit-learn, Postman, Git, MongoDB, Tableau
-- Specialties: Data Quality Automation, LLM Testing, Probabilistic Modeling, DL Pipelines
+I work on full-stack web development with a strong design eye — building real, client-facing products from pitch to production, not just prototypes. Currently building **LWv4**, a complete digital platform I pitched and am building solo for LeisureWorld Cork.
 
-📌 Open to opportunities in Data QA, ML Engineering, and Applied Research!
+</div>
 
-[LinkedIn](https://www.linkedin.com/in/nikita-joisa-57a590220/) | [Email](mailto:nikitajoisa@gmail.com)
+---
+
+### 💭 About Me
+
+- 🔭 I'm currently building **LWv4** — a full digital platform for LeisureWorld Cork, from scratch
+- 🎨 I care about how things *feel* — canvas animations, custom cursors, page-peel reveals, not just responsive grids
+- 🌱 MSc Business Analytics graduate, University College Cork
+- 👨‍🏫 Selected for the pAIr Ireland Mentoring Program (1 of 18 from 1,500+ applicants)
+- 💬 Ask me about full-stack builds, UI micro-interactions, or resume automation tools
+- ⚡ I only ship things I'd actually want to use
+
+### 📫 Reach Me On
+
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](#)
+
+---
+
+### 🛠️ Languages & Tools I've Placed My Hands On
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,php,python,nodejs,bootstrap,mongodb,git,figma,vscode" />
+</div>
+
+### 📦 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 📌 Pinned Work
+
+| Project | Description |
+|---|---|
+| **LWv4** | Full digital platform for LeisureWorld Cork — pitched and built solo |
+| **Portfolio Site** | Particle preloader, halftone portrait, Swiss-grid canvas, 3D-tilt cards |
+| **JobHunter AI** | DOCX resume tailoring tool powered by Ollama/Llama 3.2 |
+| **The Weekly Listener** | Spotify-powered music newspaper web app with OAuth |
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" />
+</div>
