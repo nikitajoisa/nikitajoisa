@@ -4,9 +4,9 @@
 
 <div align="center">
 
-### 🙏 Namaste, I'm Nikita
+# 🙏 Hey, I'm Nikita
 
-I work on full-stack web development with a strong design eye — building real, client-facing products from pitch to production, not just prototypes. Currently building **LWv4**, a complete digital platform I pitched and am building solo for LeisureWorld Cork.
+I work on full-stack web development with a strong design eye, building real, client-facing products from pitch to production, not just prototypes. Currently building **A Live Website For LeisureWorld and many more side quests**.
 
 </div>
 
@@ -14,8 +14,7 @@ I work on full-stack web development with a strong design eye — building real,
 
 ### 💭 About Me
 
-- 🔭 I'm currently building **LWv4** — a full digital platform for LeisureWorld Cork, from scratch
-- 🎨 I care about how things *feel* — canvas animations, custom cursors, page-peel reveals, not just responsive grids
+- 🎨 I care about how things *feel*, canvas animations, custom cursors, page-peel reveals, not just responsive grids
 - 🌱 MSc Business Analytics graduate, University College Cork
 - 👨‍🏫 Selected for the pAIr Ireland Mentoring Program (1 of 18 from 1,500+ applicants)
 - 💬 Ask me about full-stack builds, UI micro-interactions, or resume automation tools
@@ -44,17 +43,6 @@ I work on full-stack web development with a strong design eye — building real,
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-### 📌 Pinned Work
-
-| Project | Description |
-|---|---|
-| **LWv4** | Full digital platform for LeisureWorld Cork — pitched and built solo |
-| **Portfolio Site** | Particle preloader, halftone portrait, Swiss-grid canvas, 3D-tilt cards |
-| **JobHunter AI** | DOCX resume tailoring tool powered by Ollama/Llama 3.2 |
-| **The Weekly Listener** | Spotify-powered music newspaper web app with OAuth |
 
 ---
 
