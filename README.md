@@ -14,11 +14,11 @@ I work on full-stack web development with a strong design eye, building real, cl
 
 ### 💭 About Me
 
-- 🎨 I care about how things *feel*, canvas animations, custom cursors, page-peel reveals, not just responsive grids
-- 🌱 MSc Business Analytics graduate, University College Cork
-- 👨‍🏫 Selected for the pAIr Ireland Mentoring Program (1 of 18 from 1,500+ applicants)
-- 💬 Ask me about full-stack builds, UI micro-interactions, or resume automation tools
-- ⚡ I only ship things I'd actually want to use
+- I care about how things *feel*, canvas animations, custom cursors, page-peel reveals, not just responsive grids
+- MSc Business Analytics graduate, University College Cork
+- Selected for the pAIr Ireland Mentoring Program (1 of 18 from 1,500+ applicants)
+- Ask me about full-stack builds, UI micro-interactions, or resume automation tools
+- I only ship things I'd actually want to use
 
 ### 📫 Reach Me On
 
